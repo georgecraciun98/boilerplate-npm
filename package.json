@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "George Craciun"
+	"author": "George Craciun",
+	"version":"2.0"
 }
